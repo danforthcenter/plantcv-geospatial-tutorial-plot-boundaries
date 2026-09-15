@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[746244.413639, 3382214.933241], [746261.947409, 3382200.088473], [746242.498186, 3382177.655562], [746225.074922, 3382192.573999], [746244.413639, 3382214.933241]]]}, "properties": {}}], "crs": {"type": "name", "properties": {"name": "EPSG:32614"}}}
