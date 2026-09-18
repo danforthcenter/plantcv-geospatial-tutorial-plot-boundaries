@@ -11,5 +11,5 @@ geospatial, plant, plot boundary, boundaries, tutorial
 
 ## Citations
 ‌
-[![DOI](https://zenodo.org/badge/1371528686.svg)](https://doi.org/10.5281/zenodo.22837971)
+10.5281/zenodo.22837972
 
