@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+authors:
+- family-names: Murphy
+  given-names: Katherine
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-8891-4274"
+title: "PlantCV-Geospatial Color and Spectral Index Analysis Tutorial"
+version: 1.0
+doi: 
+date-released: 2026
