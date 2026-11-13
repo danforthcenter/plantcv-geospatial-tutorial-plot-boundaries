@@ -31,6 +31,13 @@ jobs:
             python -m pip install --upgrade pip
             pip install pytest jupyter nbconvert
             pip install -r requirements.txt
+        # The notebook opens real Napari/Qt viewers, which need a display to construct even
+        # when nothing is actually drawn on screen. This sets up a virtual display (Xvfb) plus
+        # the system libraries Qt needs, so napari.Viewer() works on GitHub's headless runners.
+        - name: Set up virtual display for Napari/Qt
+          uses: pyvista/setup-headless-display-action@v3
+          with:
+            qt: true
         - name: "Build notebooks"
           run: |
             pytest -v tests/tests.py

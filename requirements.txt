@@ -1,3 +1,4 @@
 ipympl
 altair < 6
 plantcv
+plantcv-geospatial
