@@ -4,7 +4,6 @@ This tutorial covers different methods of plot boundary delineation using PlantC
 
 This tutorial is for local use only as it uses napari, which will not open through web browsers.
 
-
 ## Tags
 
 geospatial, plant, plot boundary, boundaries, tutorial
