@@ -1,4 +1,4 @@
-# Tutorial Title
+# PlantCV-Geospatial: Plot Boundary Tutorial
 
 This tutorial covers different methods of plot boundary delineation using PlantCV-Geospatial. These methods are applicable to precision-planted rows, rows that are not precise, and individual plants as plots. 
 
