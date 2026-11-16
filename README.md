@@ -13,3 +13,4 @@ geospatial, plant, plot boundary, boundaries, tutorial
 ‌
 Tutorial citation: 10.5281/zenodo.22837972
 
+[![test-pr](https://github.com/danforthcenter/plantcv-geospatial-tutorial-plot-boundaries/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-geospatial-tutorial-plot-boundaries/actions/workflows/ci-tests.yml)
